@@ -1,2 +1,2 @@
 # GameJam1
-Stuffaghalh
+Team BeetRoot's first GameJam repository.
